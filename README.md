@@ -5,15 +5,15 @@ The **personal milestones table** outlines key milestones for practical programm
 **Link:** They should insert the actual URL where they achieved each milestone into the `Link` column. For example, they would link directly to their updated profile, the forked repository, the specific commit, the pull request they made, or the pull request they reviewed. :exclamation: Replace the placeholders (including `'`) with the actual URLs :exclamation: - only the marked sections will change.
 
 
-| Week | Milestone                                   | Link                                                                        |      
-|------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
+| Week | Milestone                                   | Link                                                         |
+|------|---------------------------------------------|--------------------------------------------------------------|
+| 1    | Github Account Created                      | https://github.com/yerlikayaperi |
+| 1    | Github Profile Page Updated                 | https://github.com/yerlikayaperi/yerlikayaperi |
+| 1    | Commit and Push Change from Command Line    | https://github.com/schwallergroup/practical-programming-in-chemistry-milestones/commit/f4851f54402224bead23bc6050b122613ea6aff8 |
+| 1    | Create a New Branch                           | https://github.com/yerlikayaperi/llama/tree/newbranch |
+| 1    | Create a conda environment                  | https://github.com/yerlikayaperi/practical-programming-in-chemistry-exercises/blob/main/environment/ch200.yml |
+| 1    | Fork a Repo                                 | https://github.com/yerlikayaperi/practical-programming-in-chemistry-milestones |
+| 1    | Make a Pull Request              | https://github.com/schwallergroup/CuCNCC/pull/1 |
 | 2    | (Optional) Review a Pull Request            | |
 
 **More milestones will be added throughout the course.**
