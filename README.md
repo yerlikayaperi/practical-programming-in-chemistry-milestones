@@ -15,7 +15,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Fork a Repo                                 | https://github.com/yerlikayaperi/practical-programming-in-chemistry-milestones |
 | 1    | Make a Pull Request              | https://github.com/schwallergroup/CuCNCC/pull/1 |
 | 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/yerlikayaperi/practical-programming-in-chemistry-exercises/pull/1 |
+| 4    | Update `env.yml` via a Pull Request         | https://github.com/yerlikayaperi/practical-programming-in-chemistry-exercises/pull/2 |
 
 **More milestones will be added throughout the course.**
 
